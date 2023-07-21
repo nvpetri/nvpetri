@@ -1,7 +1,8 @@
+<img src="https://www.canva.com/design/DAFpOEwkh0w/1ha2ILWrMWoLHPLevw5fzQ/view?utm_content=DAFpOEwkh0w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
 
-Hello! My name is Nicolas Petri. Welcome to my GitHub profile!
+# Welcome!
 
-Olá! Meu nome é Nicolas Petri. Bem-vindo ao meu perfil do GitHub!
+## I'm Nicolas Petri!
 
 ### Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width="40" height="40"/>
