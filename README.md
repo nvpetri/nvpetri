@@ -1,4 +1,4 @@
-### Hi there 👋
+
 Hello! My name is Nicolas Petri. Welcome to my GitHub profile!
 
 Olá! Meu nome é Nicolas Petri. Bem-vindo ao meu perfil do GitHub!
