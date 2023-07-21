@@ -7,12 +7,13 @@ Olá! Meu nome é Nicolas Petri. Bem-vindo ao meu perfil do GitHub!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width="40" height="40"/>
 
 ## Contatos:
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nicolas-vasconcelos-petri-santos-111942278" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/nicolas-vasconcelos-petri-santos-111942278?trk=profile-badge">Nicolas Vasconcelos Petri Santos</a></div>
 
 <div>
   <a href="https://www.instagram.com/n_petri_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-vasconcelos-petri-santos-111942278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/nvpetri">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvpetri&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvpetri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
