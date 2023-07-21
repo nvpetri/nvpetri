@@ -7,8 +7,6 @@ Olá! Meu nome é Nicolas Petri. Bem-vindo ao meu perfil do GitHub!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width="40" height="40"/>
 
 ## Contatos:
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nicolas-vasconcelos-petri-santos-111942278" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/nicolas-vasconcelos-petri-santos-111942278?trk=profile-badge">Nicolas Vasconcelos Petri Santos</a></div>
 
 <div>
   <a href="https://www.instagram.com/n_petri_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
