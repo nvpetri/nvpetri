@@ -1,5 +1,3 @@
-<img src="https://www.canva.com/design/DAFpOEwkh0w/1ha2ILWrMWoLHPLevw5fzQ/view?utm_content=DAFpOEwkh0w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
-
 # Welcome!
 
 ## I'm Nicolas Petri!
