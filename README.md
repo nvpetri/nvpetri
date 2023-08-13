@@ -1,9 +1,10 @@
-# Welcome!
+# Bem Vindo / Welcome!
 
 ## I'm Nicolas Petri!
 
 ### Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width="40" height="40"/>
+<img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" width="40" height="40"/> <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="40" height="40"/>
 
 ## Contatos:
 
