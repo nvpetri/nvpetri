@@ -1,4 +1,4 @@
-# Bem Vindo / Welcome!
+# ❤️✈️ Bem Vindo / Welcome! ✈️❤️
 
 ## I'm Nicolas Petri!
 
