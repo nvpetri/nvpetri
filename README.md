@@ -17,8 +17,6 @@
   <a href="https://www.linkedin.com/in/nicolas-v-111942278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div>
 
-    <img src="https://camo.githubusercontent.com/54f8d61c5f18545f8e3ca22aa1e2654333ecc8446cd8dbcbe50cf877cf00a6ad/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d6563663035653437317435626d7a6f796164356630316667796970636c39713233667a6f7578707964773567336c34772665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67" />
-<a href="https://github.com/nvpetri">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvpetri&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvpetri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
