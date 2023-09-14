@@ -2,9 +2,9 @@
 
 ## I'm Nicolas Petri!
 
-### Hello, my name is Nicolas Vasconcelos, I'm studying Systems Development at SENAI. I really like a challenge, that's why I chose this course, at the beginning I couldn't do much but when I look back and see the challenges I completed and my evolution, I realize that the real challenge is the one that makes you grow, so, I can say that I am close to being the person that I so idealize.
+### Hello, my name is Nicolas Vasconcelos, I am studying Systems Development at SENAI. I really like challenges, so I chose this course, at first I could not do much but when I look back and see everything that has passed and my evolution, I realize that I am close to being the person I idealize so much, delivering my best in every way.
 
-*❤️✈️ Always improving myself because time doesn't stop, so don't stop in time, the world is constantly evolving ✈️❤️*
+*❤️✈️ Always improving me because time does not stop, so we can not stop in time, the world is constantly evolving and technology too ✈️❤️*
 
 ### Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width="40" height="40"/>
